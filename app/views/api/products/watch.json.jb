@@ -1,0 +1,6 @@
+{
+  name: @watch.name,
+  price: @watch.price,
+  image: @watch.image_url,
+  description: @watch.description,
+}

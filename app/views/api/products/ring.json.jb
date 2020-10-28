@@ -1,0 +1,6 @@
+{
+  name: @ring.name,
+  price: @ring.price,
+  image: @ring.image_url,
+  description: @ring.description,
+}
