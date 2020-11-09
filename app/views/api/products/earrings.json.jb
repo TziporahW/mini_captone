@@ -1,6 +1,0 @@
-{
-  name: @earrings.name,
-  price: @earrings.price,
-  image: @earrings.image_url,
-  description: @earrings.description,
-}
