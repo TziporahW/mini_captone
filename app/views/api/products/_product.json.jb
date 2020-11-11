@@ -6,4 +6,4 @@
   is_discounted?: product.is_discounted?,
   tax: product.tax,
   total: product.total,
-  supplier: product.supplier }
+  supplier: product.supplier_id }
